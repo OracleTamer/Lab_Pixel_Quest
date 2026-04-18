@@ -75,6 +75,7 @@ public class GeoController : MonoBehaviour
                 }
             case "Coin":
                 {
+                    Destroy(collision.gameObject);
                     Debug.Log("Coin Got!");
                     break;
                 }
@@ -85,5 +86,8 @@ public class GeoController : MonoBehaviour
                 }
         }
     }
+
+    
+
 }   
 
