@@ -77999,7 +77999,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2641175210428784259, guid: 2ed84303b3c1c3b44a85ef4e464a50c5, type: 3}
       propertyPath: dialogue.Array.data[4]
-      value: You must defeat him! The sherrif will show you the way.
+      value: You must defeat him! The knight will show you the way.
       objectReference: {fileID: 0}
     - target: {fileID: 2741854173681740130, guid: 2ed84303b3c1c3b44a85ef4e464a50c5, type: 3}
       propertyPath: m_LocalPosition.x
